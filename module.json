@@ -1,0 +1,63 @@
+{
+  "id": "pf2e-season-of-ghosts-tools",
+  "title": "PF2e Season of Ghosts Tools",
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "season-of-ghosts-shop-items",
+      "label": "Season of Ghosts Shop Items",
+      "path": "packs/season-of-ghosts-shop-items",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "season-of-ghosts-shop-actors",
+      "label": "Season of Ghosts Shop Actors",
+      "path": "packs/season-of-ghosts-shop-actors",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "season-of-ghosts-rolltables",
+      "label": "Season of Ghosts Rolltables",
+      "path": "packs/season-of-ghosts-rolltables",
+      "type": "RollTable",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "season-of-ghosts-macros",
+      "label": "Season of Ghosts Macros",
+      "path": "packs/season-of-ghosts-macros",
+      "type": "Macro",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "recommends": [
+      {
+        "id": "item-piles",
+        "type": "module"
+      }
+    ]
+  }
+}
