@@ -1,15 +1,8 @@
-2023/11/20-23:14:11.297747 151bd3d3eb38 Recovering log #81
-2023/11/20-23:14:11.308164 151bd3d3eb38 Delete type=0 #81
-2023/11/20-23:14:11.309014 151bd3d3eb38 Delete type=3 #80
-2023/11/21-21:04:46.902147 15194e5cab38 Level-0 table #85: started
-2023/11/21-21:04:46.908754 15194e5cab38 Level-0 table #85: 7218 bytes OK
-2023/11/21-21:04:46.912030 15194e5cab38 Delete type=0 #83
-2023/11/21-21:04:46.923236 15194e5cab38 Manual compaction at level-0 from '!tables!7DAQse8qzhGyoD0C' @ 72057594037927935 : 1 .. '!tables.results!NrKcPyOlgQKJ3E0J.uRdMdqcO3oeibiz4' @ 0 : 0; will stop at (end)
-2023/11/21-21:04:46.935393 15194e5cab38 Manual compaction at level-1 from '!tables!7DAQse8qzhGyoD0C' @ 72057594037927935 : 1 .. '!tables.results!NrKcPyOlgQKJ3E0J.uRdMdqcO3oeibiz4' @ 0 : 0; will stop at '!tables.results!ks8Z7JdURIxRBFNW.tihRw0fomeqYnhUj' @ 35 : 1
-2023/11/21-21:04:46.935526 15194e5cab38 Compacting 1@1 + 1@2 files
-2023/11/21-21:04:46.942548 15194e5cab38 Generated table #86@1: 28 keys, 4164 bytes
-2023/11/21-21:04:46.942710 15194e5cab38 Compacted 1@1 + 1@2 files => 4164 bytes
-2023/11/21-21:04:46.944908 15194e5cab38 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/11/21-21:04:46.945722 15194e5cab38 Delete type=2 #5
-2023/11/21-21:04:46.946805 15194e5cab38 Delete type=2 #85
-2023/11/21-21:04:46.958987 15194e5cab38 Manual compaction at level-1 from '!tables.results!ks8Z7JdURIxRBFNW.tihRw0fomeqYnhUj' @ 35 : 1 .. '!tables.results!NrKcPyOlgQKJ3E0J.uRdMdqcO3oeibiz4' @ 0 : 0; will stop at (end)
+2023/11/26-17:05:32.114868 151bd4144b38 Recovering log #130
+2023/11/26-17:05:32.126330 151bd4144b38 Delete type=3 #128
+2023/11/26-17:05:32.127312 151bd4144b38 Delete type=0 #130
+2023/11/26-18:33:16.934460 15194e5cab38 Level-0 table #135: started
+2023/11/26-18:33:16.935035 15194e5cab38 Level-0 table #135: 0 bytes OK
+2023/11/26-18:33:16.938720 15194e5cab38 Delete type=0 #133
+2023/11/26-18:33:16.954595 15194e5cab38 Manual compaction at level-0 from '!tables!7DAQse8qzhGyoD0C' @ 72057594037927935 : 1 .. '!tables.results!NrKcPyOlgQKJ3E0J.uRdMdqcO3oeibiz4' @ 0 : 0; will stop at (end)
+2023/11/26-18:33:16.955244 15194e5cab38 Manual compaction at level-1 from '!tables!7DAQse8qzhGyoD0C' @ 72057594037927935 : 1 .. '!tables.results!NrKcPyOlgQKJ3E0J.uRdMdqcO3oeibiz4' @ 0 : 0; will stop at (end)
