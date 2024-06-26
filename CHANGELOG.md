@@ -1,3 +1,14 @@
+# 0.7.0
+
+- Verified compatibility for v12
+  - Item Piles continues to be marked as an *optional* dependency. It's not officially v12 compatible at the time of writing, but it should work for existing merchant actors in v12.
+- Added some commonly used effects from Book 1, such as `Blessed Coins`, `Spider Gate Lantern`, and `Mirage Mist`. These can be placed on players to get permanent bonuses as long as they're needed.
+
+# 0.6.0
+
+- Add Shinzo merchant
+- Includes hidden items to his inventory (only hidden with Item Piles, make them visible at the appropriate time)
+
 # 0.5.0
 
 - Update `Willowshore Random Encounters Flat Check` macro to also draw from the random encounters table if the check succeeds.

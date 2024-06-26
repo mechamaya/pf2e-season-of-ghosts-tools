@@ -1,16 +1,17 @@
 {
   "id": "pf2e-season-of-ghosts-tools",
   "title": "PF2e Season of Ghosts Tools",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "description": "Tools and macros for Season of Ghosts adventure path for Pathfinder 2nd Edition.",
   "authors": [
     {
       "name": "MechaMaya",
-      "discord": "mechamaya"
+      "discord": "mechamaya",
+      "flags": {}
     }
   ],
   "packs": [
@@ -57,6 +58,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "season-of-ghosts-effects",
+      "label": "Season of Ghosts Effects",
+      "path": "packs/season-of-ghosts-effects",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
     }
   ],
   "relationships": {
