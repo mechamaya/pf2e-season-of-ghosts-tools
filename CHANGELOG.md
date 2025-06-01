@@ -1,3 +1,8 @@
+# 0.7.1
+- Verified v13 compatibility, changed dependency on `Item Piles` to `Item Piles: PF2e`, which is a compatibility module for Item Piles now that it has gone system agnostic.
+- Installing this module should automatically prompt installing both Item Piles and the PF2e compatibility module (though it is still optional)
+  - if you are just updating this module, it won't do this automatically. *Go install the compatibility module right now if you use Item Piles.*
+
 # 0.7.0
 
 - Verified compatibility for v12

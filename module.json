@@ -1,10 +1,11 @@
 {
   "id": "pf2e-season-of-ghosts-tools",
   "title": "PF2e Season of Ghosts Tools",
-  "version": "0.7.0",
+  "version": "1.0.0",
   "compatibility": {
-    "minimum": "11",
-    "verified": "12"
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
   },
   "description": "Tools and macros for Season of Ghosts adventure path for Pathfinder 2nd Edition.",
   "authors": [
@@ -74,9 +75,12 @@
   "relationships": {
     "recommends": [
       {
-        "id": "item-piles",
+        "id": "itempiles-pf2e",
         "type": "module",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "1.0.0",
+          "verified": "1.0.2"
+        }
       }
     ]
   },
