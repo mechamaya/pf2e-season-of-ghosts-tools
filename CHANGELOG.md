@@ -1,3 +1,6 @@
+# 1.0.1
+- Because I messed up and released empty compendiums, this should bring back all the compendium data for v12 users.
+
 # 1.0.0
 v12 and v13 compatible 1.0.0 release.
 - Includes optional dependency for Item Piles: PF2e which should ensure Item Piles works properly in the PF2e system for merchants.
