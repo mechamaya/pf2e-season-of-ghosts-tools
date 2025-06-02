@@ -1,7 +1,11 @@
-# 0.7.1
-- Verified v13 compatibility, changed dependency on `Item Piles` to `Item Piles: PF2e`, which is a compatibility module for Item Piles now that it has gone system agnostic.
+# 1.0.0
+v12 and v13 compatible 1.0.0 release.
+- Includes optional dependency for Item Piles: PF2e which should ensure Item Piles works properly in the PF2e system for merchants.
 - Installing this module should automatically prompt installing both Item Piles and the PF2e compatibility module (though it is still optional)
   - if you are just updating this module, it won't do this automatically. *Go install the compatibility module right now if you use Item Piles.*
+- Macros fixed to make sure they work with v13
+- Effects compendium should have had Book 1 and Book 2 effects but were missing and no one told me, so that is hopefully fixed now.
+- Known issue, random encounter rolltables still have broken links, going to wait for a future system update to fix that
 
 # 0.7.0
 
