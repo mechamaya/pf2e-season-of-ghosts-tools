@@ -1,34 +1,15 @@
-2025/06/02-22:11:11.199768 14e09cc72b38 Recovering log #927
-2025/06/02-22:11:11.206083 14e09cc72b38 Delete type=2 #5
-2025/06/02-22:11:11.206413 14e09cc72b38 Delete type=0 #7
-2025/06/02-22:11:11.206716 14e09cc72b38 Delete type=0 #57
-2025/06/02-22:11:11.207001 14e09cc72b38 Delete type=0 #58
-2025/06/02-22:11:11.207299 14e09cc72b38 Delete type=0 #66
-2025/06/02-22:11:11.207578 14e09cc72b38 Delete type=0 #84
-2025/06/02-22:11:11.207850 14e09cc72b38 Delete type=2 #86
-2025/06/02-22:11:11.208127 14e09cc72b38 Delete type=0 #89
-2025/06/02-22:11:11.208413 14e09cc72b38 Delete type=2 #91
-2025/06/02-22:11:11.208704 14e09cc72b38 Delete type=0 #137
-2025/06/02-22:11:11.208981 14e09cc72b38 Delete type=0 #138
-2025/06/02-22:11:11.209258 14e09cc72b38 Delete type=0 #142
-2025/06/02-22:11:11.209584 14e09cc72b38 Delete type=0 #927
-2025/06/02-22:11:11.209868 14e09cc72b38 Delete type=3 #6
-2025/06/02-22:11:11.210154 14e09cc72b38 Delete type=3 #56
-2025/06/02-22:11:11.210457 14e09cc72b38 Delete type=3 #64
-2025/06/02-22:11:11.210737 14e09cc72b38 Delete type=3 #82
-2025/06/02-22:11:11.211028 14e09cc72b38 Delete type=3 #87
-2025/06/02-22:11:11.211320 14e09cc72b38 Delete type=3 #136
-2025/06/02-22:11:11.211686 14e09cc72b38 Delete type=3 #140
-2025/06/02-22:11:11.211967 14e09cc72b38 Delete type=3 #925
-2025/06/02-22:27:26.819699 14db9bacdb38 Level-0 table #932: started
-2025/06/02-22:27:26.823110 14db9bacdb38 Level-0 table #932: 9274 bytes OK
-2025/06/02-22:27:26.825429 14db9bacdb38 Delete type=0 #930
-2025/06/02-22:27:26.835585 14db9bacdb38 Manual compaction at level-0 from '!tables!4VEJ3IeK4nZWXb35' @ 72057594037927935 : 1 .. '!tables.results!ixB77nbzx0lPqi9S.uRdMdqcO3oeibiz4' @ 0 : 0; will stop at (end)
-2025/06/02-22:27:26.843242 14db9bacdb38 Manual compaction at level-1 from '!tables!4VEJ3IeK4nZWXb35' @ 72057594037927935 : 1 .. '!tables.results!ixB77nbzx0lPqi9S.uRdMdqcO3oeibiz4' @ 0 : 0; will stop at '!tables.results!ko01yuB6AG0wcF5C.uRdMdqcO3oeibiz4' @ 314 : 1
-2025/06/02-22:27:26.843296 14db9bacdb38 Compacting 1@1 + 1@2 files
-2025/06/02-22:27:26.846724 14db9bacdb38 Generated table #933@1: 28 keys, 4559 bytes
-2025/06/02-22:27:26.846772 14db9bacdb38 Compacted 1@1 + 1@2 files => 4559 bytes
-2025/06/02-22:27:26.849085 14db9bacdb38 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/06/02-22:27:26.849455 14db9bacdb38 Delete type=2 #890
-2025/06/02-22:27:26.849790 14db9bacdb38 Delete type=2 #932
-2025/06/02-22:27:26.857008 14db9bacdb38 Manual compaction at level-1 from '!tables.results!ko01yuB6AG0wcF5C.uRdMdqcO3oeibiz4' @ 314 : 1 .. '!tables.results!ixB77nbzx0lPqi9S.uRdMdqcO3oeibiz4' @ 0 : 0; will stop at (end)
+2025/06/26-02:21:56.868259 1552c0c22b38 Recovering log #938
+2025/06/26-02:21:56.875131 1552c0c22b38 Delete type=3 #936
+2025/06/26-02:21:56.875444 1552c0c22b38 Delete type=0 #938
+2025/06/26-03:14:16.474920 15503fe63b38 Level-0 table #943: started
+2025/06/26-03:14:16.479546 15503fe63b38 Level-0 table #943: 3458 bytes OK
+2025/06/26-03:14:16.480981 15503fe63b38 Delete type=0 #941
+2025/06/26-03:14:16.485976 15503fe63b38 Manual compaction at level-0 from '!tables!4VEJ3IeK4nZWXb35' @ 72057594037927935 : 1 .. '!tables.results!ixB77nbzx0lPqi9S.uRdMdqcO3oeibiz4' @ 0 : 0; will stop at (end)
+2025/06/26-03:14:16.486150 15503fe63b38 Manual compaction at level-1 from '!tables!4VEJ3IeK4nZWXb35' @ 72057594037927935 : 1 .. '!tables.results!ixB77nbzx0lPqi9S.uRdMdqcO3oeibiz4' @ 0 : 0; will stop at '!tables.results!ixB77nbzx0lPqi9S.uRdMdqcO3oeibiz4' @ 358 : 0
+2025/06/26-03:14:16.486185 15503fe63b38 Compacting 1@1 + 1@2 files
+2025/06/26-03:14:16.489618 15503fe63b38 Generated table #944@1: 28 keys, 4581 bytes
+2025/06/26-03:14:16.489667 15503fe63b38 Compacted 1@1 + 1@2 files => 4581 bytes
+2025/06/26-03:14:16.491300 15503fe63b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/26-03:14:16.491643 15503fe63b38 Delete type=2 #933
+2025/06/26-03:14:16.491962 15503fe63b38 Delete type=2 #943
+2025/06/26-03:14:16.495602 15503fe63b38 Manual compaction at level-1 from '!tables.results!ixB77nbzx0lPqi9S.uRdMdqcO3oeibiz4' @ 358 : 0 .. '!tables.results!ixB77nbzx0lPqi9S.uRdMdqcO3oeibiz4' @ 0 : 0; will stop at (end)
