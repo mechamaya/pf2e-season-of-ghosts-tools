@@ -1,3 +1,9 @@
+# 1.0.5
+- Fix Willowshore Random Encounter Flat Check macro
+
+# 1.0.4
+- Fix broken links in Willowshore Random Encounter Table
+
 # 1.0.1
 - Because I messed up and released empty compendiums, this should bring back all the compendium data for v12 users.
 
