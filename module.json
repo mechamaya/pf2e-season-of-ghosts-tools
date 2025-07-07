@@ -1,7 +1,7 @@
 {
   "id": "pf2e-season-of-ghosts-tools",
   "title": "PF2e Season of Ghosts Tools",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "compatibility": {
     "minimum": "12",
     "verified": "13",
@@ -70,6 +70,18 @@
         "ASSISTANT": "OWNER"
       },
       "system": "pf2e"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Season of Ghosts Maps and Tools",
+      "packs": [
+        "season-of-ghosts-shop-items",
+        "season-of-ghosts-shop-actors",
+        "season-of-ghosts-rolltables",
+        "season-of-ghosts-macros",
+        "season-of-ghosts-effects"
+      ]
     }
   ],
   "relationships": {

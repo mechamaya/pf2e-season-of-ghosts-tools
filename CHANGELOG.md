@@ -1,3 +1,6 @@
+# 1.0.6
+- Placed compendium in `Season of Ghosts Maps and Tools` folder
+
 # 1.0.5
 - Fix Willowshore Random Encounter Flat Check macro
 
