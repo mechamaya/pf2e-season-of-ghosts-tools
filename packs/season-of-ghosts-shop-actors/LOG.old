@@ -1,8 +1,40 @@
-2024/06/26-23:25:33.579377 154d76daeb38 Recovering log #993
-2024/06/26-23:25:33.589667 154d76daeb38 Delete type=3 #991
-2024/06/26-23:25:33.590287 154d76daeb38 Delete type=0 #993
-2024/06/26-23:31:23.010386 15487616cb38 Level-0 table #998: started
-2024/06/26-23:31:23.010848 15487616cb38 Level-0 table #998: 0 bytes OK
-2024/06/26-23:31:23.013260 15487616cb38 Delete type=0 #996
-2024/06/26-23:31:23.020813 15487616cb38 Manual compaction at level-0 from '!actors!7Hs2ecvP78jRUDMB' @ 72057594037927935 : 1 .. '!folders!yiGrrMSu9gS9ENvt' @ 0 : 0; will stop at (end)
-2024/06/26-23:31:23.021101 15487616cb38 Manual compaction at level-1 from '!actors!7Hs2ecvP78jRUDMB' @ 72057594037927935 : 1 .. '!folders!yiGrrMSu9gS9ENvt' @ 0 : 0; will stop at (end)
+2025/06/02-22:11:11.169696 14e09c86cb38 Recovering log #997
+2025/06/02-22:11:11.177836 14e09c86cb38 Delete type=2 #67
+2025/06/02-22:11:11.178574 14e09c86cb38 Delete type=0 #69
+2025/06/02-22:11:11.178852 14e09c86cb38 Delete type=2 #84
+2025/06/02-22:11:11.179530 14e09c86cb38 Delete type=0 #120
+2025/06/02-22:11:11.179821 14e09c86cb38 Delete type=0 #121
+2025/06/02-22:11:11.180089 14e09c86cb38 Delete type=2 #123
+2025/06/02-22:11:11.180787 14e09c86cb38 Delete type=0 #126
+2025/06/02-22:11:11.181081 14e09c86cb38 Delete type=2 #128
+2025/06/02-22:11:11.181795 14e09c86cb38 Delete type=2 #133
+2025/06/02-22:11:11.182583 14e09c86cb38 Delete type=0 #136
+2025/06/02-22:11:11.182871 14e09c86cb38 Delete type=0 #154
+2025/06/02-22:11:11.183153 14e09c86cb38 Delete type=0 #158
+2025/06/02-22:11:11.183446 14e09c86cb38 Delete type=0 #205
+2025/06/02-22:11:11.183884 14e09c86cb38 Delete type=0 #206
+2025/06/02-22:11:11.184170 14e09c86cb38 Delete type=2 #208
+2025/06/02-22:11:11.184966 14e09c86cb38 Delete type=0 #211
+2025/06/02-22:11:11.185239 14e09c86cb38 Delete type=2 #213
+2025/06/02-22:11:11.185963 14e09c86cb38 Delete type=0 #997
+2025/06/02-22:11:11.186262 14e09c86cb38 Delete type=3 #68
+2025/06/02-22:11:11.186731 14e09c86cb38 Delete type=3 #119
+2025/06/02-22:11:11.187024 14e09c86cb38 Delete type=3 #124
+2025/06/02-22:11:11.187330 14e09c86cb38 Delete type=3 #134
+2025/06/02-22:11:11.187630 14e09c86cb38 Delete type=3 #152
+2025/06/02-22:11:11.187912 14e09c86cb38 Delete type=3 #156
+2025/06/02-22:11:11.188193 14e09c86cb38 Delete type=3 #204
+2025/06/02-22:11:11.188483 14e09c86cb38 Delete type=3 #209
+2025/06/02-22:11:11.188772 14e09c86cb38 Delete type=3 #995
+2025/06/02-22:27:26.943899 14db9bacdb38 Level-0 table #1002: started
+2025/06/02-22:27:26.948439 14db9bacdb38 Level-0 table #1002: 2974 bytes OK
+2025/06/02-22:27:26.951378 14db9bacdb38 Delete type=0 #1000
+2025/06/02-22:27:26.959727 14db9bacdb38 Manual compaction at level-0 from '!actors!7Hs2ecvP78jRUDMB' @ 72057594037927935 : 1 .. '!folders!yiGrrMSu9gS9ENvt' @ 0 : 0; will stop at (end)
+2025/06/02-22:27:26.959883 14db9bacdb38 Manual compaction at level-1 from '!actors!7Hs2ecvP78jRUDMB' @ 72057594037927935 : 1 .. '!folders!yiGrrMSu9gS9ENvt' @ 0 : 0; will stop at '!actors!FUSqFKUPWa6DLWiM' @ 4916 : 1
+2025/06/02-22:27:26.959931 14db9bacdb38 Compacting 1@1 + 1@2 files
+2025/06/02-22:27:27.014258 14db9bacdb38 Generated table #1003@1: 769 keys, 1300302 bytes
+2025/06/02-22:27:27.014311 14db9bacdb38 Compacted 1@1 + 1@2 files => 1300302 bytes
+2025/06/02-22:27:27.016067 14db9bacdb38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/02-22:27:27.016530 14db9bacdb38 Delete type=2 #960
+2025/06/02-22:27:27.017240 14db9bacdb38 Delete type=2 #1002
+2025/06/02-22:27:27.031347 14db9bacdb38 Manual compaction at level-1 from '!actors!FUSqFKUPWa6DLWiM' @ 4916 : 1 .. '!folders!yiGrrMSu9gS9ENvt' @ 0 : 0; will stop at (end)
