@@ -1,6 +1,7 @@
 # 1.2.0
 - Added shop actors for the Season of Ghosts Hardcover Compilation module, in the Shop Actors Remastered folder.
 - Old shop actors are still present for people still using the original Season of Ghosts modules.
+- Added random encounter rolltables and macros for remastered hardcover compilation.
 
 # 1.1.0
 - Refreshed all items in shop inventories from compendium as some items were broken and preventing import in v13 versions of the system.
