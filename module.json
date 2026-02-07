@@ -1,7 +1,7 @@
 {
   "id": "pf2e-season-of-ghosts-tools",
   "title": "PF2e Season of Ghosts Tools",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13",
@@ -25,7 +25,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "season-of-ghosts-shop-actors",
@@ -36,7 +37,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "season-of-ghosts-rolltables",
@@ -47,7 +49,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "season-of-ghosts-macros",
@@ -58,7 +61,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "season-of-ghosts-effects",
@@ -69,7 +73,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "pf2e"
+      "system": "pf2e",
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -81,20 +86,22 @@
         "season-of-ghosts-rolltables",
         "season-of-ghosts-macros",
         "season-of-ghosts-effects"
-      ]
+      ],
+      "color": null,
+      "folders": []
     }
   ],
   "relationships": {
     "systems": [
-        {
-            "id": "pf2e",
-            "type": "system",
-            "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
-            "compatibility": {
-                "minimum": "7.4.0",
-                "verified": "7.4.3"
-            }
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "7.4.0",
+          "verified": "7.4.3"
         }
+      }
     ],
     "recommends": [
       {
@@ -108,6 +115,7 @@
     ]
   },
   "manifest": "https://github.com/mechamaya/pf2e-season-of-ghosts-tools/releases/latest/download/module.json",
-  "download": "https://github.com/mechamaya/pf2e-season-of-ghosts-tools/releases/latest/download/module.zip",
-  "url": "https://github.com/mechamaya/pf2e-season-of-ghosts-tools"
+  "download": "https://github.com/mechamaya/pf2e-season-of-ghosts-tools/releases/download/v1.2.0/module.zip",
+  "url": "https://github.com/mechamaya/pf2e-season-of-ghosts-tools",
+  "flags": {}
 }
