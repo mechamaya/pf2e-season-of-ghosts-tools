@@ -1,3 +1,6 @@
+# 1.3.0
+- Verified for v14
+
 # 1.2.0
 - Added shop actors for the Season of Ghosts Hardcover Compilation module, in the Shop Actors Remastered folder.
 - Old shop actors are still present for people still using the original Season of Ghosts modules.
